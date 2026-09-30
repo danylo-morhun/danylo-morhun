@@ -23,7 +23,7 @@ Production monorepo unifying multi-domain daily utilities under a single authent
 
 ---
 
-### 2. [zielarnia](https://github.com/danylo-morhun/zielarnia) — E-Commerce Platform
+### 2. [wellbotany](https://github.com/danylo-morhun/wellbotany) — E-Commerce Platform
 
 > **Next.js 16 (App Router)** · **Prisma ORM** · **Neon Postgres** · **Przelewy24** · **BaseLinker API** · **InPost**
 
